@@ -8,11 +8,11 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 /* Some default styles to make each box visible */
 .box {
-  color:white;
+  color: #fff;
   font-size: 100px;
   text-align: center;
-  text-shadow:4px 4px 0 rgba(0,0,0,0.1);
-  padding:10px;
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, .1);
+  padding: 10px;
 }
 
 /* Colours for each box */
@@ -30,7 +30,8 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 /* We start writing out flexbox here. The above is just page setup */
 .container {
-  display:flex;
-  border:10px solid goldenrod;
-  height:100vh;
+  /* display: inline-flex; --> it takes only the amount of space that it needs */
+  display: flex; /* by making the parent container 'flex', all the children become 'flex-items' */
+  border: 10px solid red;
+  height: 100vh;
 }
