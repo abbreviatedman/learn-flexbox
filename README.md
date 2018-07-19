@@ -6,3 +6,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [intro](https://eneax.github.io/learn-flexbox/intro)
 
 * [flex-direction](https://eneax.github.io/learn-flexbox/flex-direction)
+
+* [flex-wrap](https://eneax.github.io/learn-flexbox/flex-wrap)
