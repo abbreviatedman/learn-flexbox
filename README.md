@@ -10,3 +10,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [flex-wrap](https://eneax.github.io/learn-flexbox/flex-wrap)
 
 * [flexbox-ordering](https://eneax.github.io/learn-flexbox/flexbox-ordering)
+
+* [alignment-and-centering](https://eneax.github.io/learn-flexbox/alignment-and-centering)
