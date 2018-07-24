@@ -16,3 +16,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [align-items](https://eneax.github.io/learn-flexbox/align-items)
 
 * [align-content](https://eneax.github.io/learn-flexbox/align-content)
+
+* [align-self](https://eneax.github.io/learn-flexbox/align-self)
