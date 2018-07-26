@@ -20,3 +20,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [align-self](https://eneax.github.io/learn-flexbox/align-self)
 
 * [flex-property](https://eneax.github.io/learn-flexbox/flex-property)
+
+* [flex-property-extra](https://eneax.github.io/learn-flexbox/flex-property-extra)
