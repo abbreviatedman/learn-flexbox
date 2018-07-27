@@ -22,3 +22,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [flex-property](https://eneax.github.io/learn-flexbox/flex-property)
 
 * [flex-property-extra](https://eneax.github.io/learn-flexbox/flex-property-extra)
+
+* [flex-wrapping-and-columns](https://eneax.github.io/learn-flexbox/flex-wrapping-and-columns)
