@@ -26,3 +26,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [flex-wrapping-and-columns](https://eneax.github.io/learn-flexbox/flex-wrapping-and-columns)
 
 * [autoprefixer](https://eneax.github.io/learn-flexbox/autoprefixer)
+
+* [flexbox-nav](https://eneax.github.io/learn-flexbox/flexbox-nav)
