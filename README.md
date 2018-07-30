@@ -28,3 +28,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [autoprefixer](https://eneax.github.io/learn-flexbox/autoprefixer)
 
 * [flexbox-nav](https://eneax.github.io/learn-flexbox/flexbox-nav)
+
+* [mobile-reordering](https://eneax.github.io/learn-flexbox/mobile-reordering)
