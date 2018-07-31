@@ -30,3 +30,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [flexbox-nav](https://eneax.github.io/learn-flexbox/flexbox-nav)
 
 * [mobile-reordering](https://eneax.github.io/learn-flexbox/mobile-reordering)
+
+* [nesting-flexbox](https://eneax.github.io/learn-flexbox/nesting-flexbox)
