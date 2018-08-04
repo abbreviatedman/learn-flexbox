@@ -39,4 +39,4 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 
 * [flexbox-form](https://eneax.github.io/learn-flexbox/flexbox-form)
 
-* [ flexbox-app-layout](https://eneax.github.io/learn-flexbox/ flexbox-app-layout)
+* [flexbox-app-layout](https://eneax.github.io/learn-flexbox/flexbox-app-layout)
