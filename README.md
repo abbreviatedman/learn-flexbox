@@ -36,3 +36,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [pricing-grid](https://eneax.github.io/learn-flexbox/pricing-grid)
 
 * [equal-height-elements](https://eneax.github.io/learn-flexbox/equal-height-elements)
+
+* [flexbox-form](https://eneax.github.io/learn-flexbox/flexbox-form)
