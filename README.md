@@ -38,3 +38,5 @@ This repo contains all the exercises for the [What The Flexbox?!](https://flexbo
 * [equal-height-elements](https://eneax.github.io/learn-flexbox/equal-height-elements)
 
 * [flexbox-form](https://eneax.github.io/learn-flexbox/flexbox-form)
+
+* [ flexbox-app-layout](https://eneax.github.io/learn-flexbox/ flexbox-app-layout)
