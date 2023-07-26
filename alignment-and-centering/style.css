@@ -29,13 +29,6 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 
 /* We start writing out flexbox here. The above is just page setup */
-.container {
-  border: 10px solid mistyrose;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;     /* main axis is from top to bottom, while the cross axis is left to right */
-  min-height: 100vh;
-}
 
 /* 
 justify-content: flex-start;    --> it's the default

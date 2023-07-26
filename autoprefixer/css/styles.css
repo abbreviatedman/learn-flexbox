@@ -20,18 +20,3 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .box2 { background:#3498db;}
 
 /* We start writing out flexbox here. The above is just page setup */
-.container {
-  border: 10px solid gold;
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-  justify-content: center;
-}
-
-.box1 {
-  flex: 10 5 400px;
-}
-
-.box2 {
-  flex: 1 1 360px;
-}

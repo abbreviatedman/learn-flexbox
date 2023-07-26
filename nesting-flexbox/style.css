@@ -37,36 +37,5 @@ a:hover {
 }
 
 /* Flex Container */
-.slider-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-}
 
-/* First Flex Item */
-.slider-nav li {
-  flex: 2;  /* This is flex item -ish*/
-  text-align: center;
-  display: flex;  /* This is flex container -ish*/
-}
-
-.slider-nav .arrow {
-  flex: 1;
-}
-
-.arrow a {
-  font-size: 30px;
-}
-
-.slider-nav a {
-  flex-basis: 100%;
-  /* We want to stretch as well as center */
-  display: flex;
-  align-items: center;
-}
-
-.slider-nav span {
-  display: block;
-  width: 100%;
-}
+/* Other flex code */
